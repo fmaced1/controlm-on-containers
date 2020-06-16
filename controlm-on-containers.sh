@@ -1,3 +1,7 @@
+
+    artifactory.santanderbr.corp/docker-base/cloudera-client-6.1-ctm-client-9:1.0.0.SNAPSHOT
+
+
 Tutorial - Building a docker container for batch applications
 https://docs.bmc.com/docs/automation-api/9/tutorial-building-a-docker-container-for-batch-applications-784081199.html
 
