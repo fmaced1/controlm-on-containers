@@ -1,6 +1,6 @@
 
-artifactory.santanderbr.corp/docker-base/javase-8-control-m-cli:1.0.0.SNAPSHOT
-artifactory.santanderbr.corp/docker-base/cloudera-client-6.1-ctm-client-9:1.0.0.SNAPSHOT
+artifactory.br.corp/docker-base/javase-8-control-m-cli:1.0.0.SNAPSHOT
+artifactory.br.corp/docker-base/cloudera-client-6.1-ctm-client-9:1.0.0.SNAPSHOT
 
 
 Tutorial - Building a docker container for batch applications
